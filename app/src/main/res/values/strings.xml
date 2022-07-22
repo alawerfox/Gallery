@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Gallery</string>
+    <string name="enter">Вход</string>/string>
+    <string name="toEnter">Войти</string>/string>
+    <string name="toExit">Выйти</string>/string>
+    <string name="login">Логин</string>/string>
+    <string name="password">Пароль</string>/string>
+    <string name="main">Главная</string>/string>
+    <string name="favorite">Избранное</string>/string>
+    <string name="profile">Профиль</string>/string>
+    <string name="gallery">Галерея</string>/string>
+    <string name="city">Город</string>/string>
+    <string name="phone">Телефон</string>/string>
+    <string name="mail">Почта</string>/string>
+</resources>
